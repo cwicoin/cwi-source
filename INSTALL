@@ -1,0 +1,9 @@
+Building cwi
+
+See doc/readme-qt.rst for instructions on building cwi-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of cwi.
+
+See doc/build-*.txt for instructions on building cwid,
+the intended-for-services, no-graphical-interface, reference
+implementation of cwi.
